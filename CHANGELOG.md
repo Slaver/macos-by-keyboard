@@ -83,6 +83,7 @@
 - Rebuilt the DMG
 
 - # v.18 (01.11.2026)
-- Added typographic shortcuts to the Belarusian PC layout, on the ⌘ and ⇧⌘ key maps (both the Latin and Cyrillic sides inherit them): ⌘`-` → `—`, ⇧⌘`-` → `–`, ⌘`б` → `«`, ⌘`ю` → `»`, ⇧⌘`б` → `„`, ⇧⌘`ю` → `“`, ⌘`г` → `ґ`, ⇧⌘`г` → `Ґ`
-- These override the default ⌘`-` (zoom out) and ⌘`,` (preferences) in apps that use them
+- Added typographic characters to the Option layer of the Belarusian PC layout: ⌥`-` → `—`, ⇧⌥`-` → `–`, ⌥`б` → `«`, ⌥`ю` → `»`, ⇧⌥`б` → `„`, ⇧⌥`ю` → `“`, ⌥`г` → `ґ`, ⇧⌥`г` → `Ґ`
+- ⌥`-` and ⇧⌥`-` are swapped relative to before (short dash was on ⌥, long on ⇧⌥); `≤`, `≥`, `ѓ` and `Ѓ` are no longer on the Option layer
+- Put on Option rather than Command because macOS does not insert text for ⌘ combinations (they are routed to menu shortcuts), so the ⌘ layer cannot produce typed characters; ⌘ keeps its original shortcut behaviour
 - Rebuilt the DMG

@@ -107,12 +107,12 @@
             <key code="24" output="="/>
             <key code="25" output="9"/>
             <key code="26" output="7"/>
-            <key code="27" output="—"/>
+            <key code="27" output="-"/>
             <key code="28" output="8"/>
             <key code="29" output="0"/>
             <key code="30" output="]"/>
             <key code="31" output="o"/>
-            <key code="32" output="ґ"/>
+            <key code="32" output="u"/>
             <key code="33" output="["/>
             <key code="34" output="i"/>
             <key code="35" output="p"/>
@@ -123,11 +123,11 @@
             <key code="40" output="k"/>
             <key code="41" output=";"/>
             <key code="42" output="\"/>
-            <key code="43" output="«"/>
+            <key code="43" output=","/>
             <key code="44" output="/"/>
             <key code="45" output="n"/>
             <key code="46" output="m"/>
-            <key code="47" output="»"/>
+            <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
             <key code="50" output="`"/>
@@ -324,12 +324,12 @@
             <key code="24" output="+"/>
             <key code="25" output="("/>
             <key code="26" output="&#x0026;"/>
-            <key code="27" output="–"/>
+            <key code="27" output="_"/>
             <key code="28" output="*"/>
             <key code="29" output=")"/>
             <key code="30" output="}"/>
             <key code="31" output="O"/>
-            <key code="32" output="Ґ"/>
+            <key code="32" output="U"/>
             <key code="33" output="{"/>
             <key code="34" output="I"/>
             <key code="35" output="P"/>
@@ -340,11 +340,11 @@
             <key code="40" output="K"/>
             <key code="41" output=":"/>
             <key code="42" output="|"/>
-            <key code="43" output="„"/>
+            <key code="43" output="&#x003C;"/>
             <key code="44" output="?"/>
             <key code="45" output="N"/>
             <key code="46" output="M"/>
-            <key code="47" output="“"/>
+            <key code="47" output="&#x003E;"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
             <key code="50" output="~"/>
@@ -433,12 +433,12 @@
             <key code="24" output="≠"/>
             <key code="25" output="("/>
             <key code="26" output="&#x0026;"/>
-            <key code="27" output="–"/>
+            <key code="27" output="—"/>
             <key code="28" output="₽"/>
             <key code="29" output=")"/>
             <key code="30" output="«"/>
             <key code="31" output="&#x0027;"/>
-            <key code="32" output="ѓ"/>
+            <key code="32" output="ґ"/>
             <key code="33" output="“"/>
             <key code="34" output="ѕ"/>
             <key code="35" output="‘"/>
@@ -449,11 +449,11 @@
             <key code="40" output="љ"/>
             <key code="41" output="«"/>
             <key code="42" output="\"/>
-            <key code="43" output="≤"/>
+            <key code="43" output="«"/>
             <key code="44" output="ї"/>
             <key code="45" output="ƒ"/>
             <key code="46" output="m"/>
-            <key code="47" output="≥"/>
+            <key code="47" output="»"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
             <key code="50" output="`"/>
@@ -542,12 +542,12 @@
             <key code="24" output="≈"/>
             <key code="25" output="{"/>
             <key code="26" output="¶"/>
-            <key code="27" output="—"/>
+            <key code="27" output="–"/>
             <key code="28" output="°"/>
             <key code="29" output="}"/>
             <key code="30" output="»"/>
             <key code="31" output="„"/>
-            <key code="32" output="Ѓ"/>
+            <key code="32" output="Ґ"/>
             <key code="33" output="”"/>
             <key code="34" output="Ѕ"/>
             <key code="35" output="’"/>
@@ -558,11 +558,11 @@
             <key code="40" output="Љ"/>
             <key code="41" output="»"/>
             <key code="42" output="|"/>
-            <key code="43" output="&#x003C;"/>
+            <key code="43" output="„"/>
             <key code="44" output="Ї"/>
             <key code="45" output="ƒ"/>
             <key code="46" output="M"/>
-            <key code="47" output="&#x003E;"/>
+            <key code="47" output="“"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
             <key code="50" output="~"/>
